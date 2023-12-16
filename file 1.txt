@@ -1,2 +1,3 @@
 Ini adalah file ke 1
 Ini adalah update codingan ke 2
+ini adalah branch 2 yg dibuat
